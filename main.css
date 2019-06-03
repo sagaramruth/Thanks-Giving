@@ -1,0 +1,28 @@
+.side-header { 
+    color:	rgb(14, 20, 19);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 70vh;
+    text-align: center;
+
+}
+
+.body{
+     margin : 100;
+}
+.profile-pic{
+    display: block;
+    border-radius: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    size: 300px;
+    border-color: rgb(255, 0, 0);
+    border-block-end-color: aliceblue;
+}
+html { 
+    background: url(https://pixelz.cc/wp-content/uploads/2019/01/sinon-sword-art-online-uhd-4k-wallpaper.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 50;;
+  }
